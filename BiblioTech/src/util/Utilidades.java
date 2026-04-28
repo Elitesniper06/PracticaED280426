@@ -1,9 +1,9 @@
-package com.bibliotech;
+package util;
 import java.util.Scanner;
 
 /**
  * Métodos auxiliares.
- * @Author Tu Nombre
+ * @Autor Robert
  */
 public class Utilidades {
     public static char leerRespuesta() {

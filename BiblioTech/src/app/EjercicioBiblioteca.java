@@ -1,4 +1,4 @@
-package com.bibliotech;
+package app;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Clase principal con el menú de la aplicación.
  * 
- * @Author Tu Nombre
+ * @Autor Robert
  */
 public class EjercicioBiblioteca {
 	static Scanner teclado = new Scanner(System.in);
