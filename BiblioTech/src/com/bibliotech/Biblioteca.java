@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * Gestiona el catálogo de libros.
  * 
- * @Author Robert L
+ * @Author Robert
  */
 public class Biblioteca implements Serializable {
 	private static final long serialVersionUID = 1L;
